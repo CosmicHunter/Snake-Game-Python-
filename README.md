@@ -13,3 +13,5 @@ showing game over and asks the user if he/she want to play again.
 * math library
 
 ## Running Game
+
+![](gif.gif)
